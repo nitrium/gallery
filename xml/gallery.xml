@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+	<group filename="content/pic_01.jpg">
+		<dialog>
+			<text><![CDATA[<p>Telefone Celular</p>ABNT 34607-BR]]></text>
+			<box width="130">192,520</box>
+			<arrow direction="left">190,520</arrow>
+		</dialog>
+	</group>
+	<group filename="content/pic_02.jpg">
+		<dialog>
+			<text><![CDATA[<p>Radiação Solar</p>ABNT 34607-BR]]></text>
+			<box width="130">192,620</box>
+			<arrow direction="right">190,748</arrow>
+		</dialog>
+		<dialog>
+			<text><![CDATA[<p>Temperatura Ambiente</p>ABNT 34607-BR]]></text>
+			<box width="160">132,320</box>
+			<arrow direction="left">130,320</arrow>
+		</dialog>
+	</group>
+	<group filename="content/pic_03.jpg">
+		<dialog>
+			<text><![CDATA[<p>Condições de Habitação</p>ABNT 34607-BR]]></text>
+			<box width="180">192,520</box>
+			<arrow direction="left">190,520</arrow>
+		</dialog>
+	</group>
+</data>
